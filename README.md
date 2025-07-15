@@ -1,4 +1,6 @@
 # Book - Generative AI in Action
+Forked from - https://github.com/bahree/GenAIBook/ .  This is for self learning while reading book Generative AI in Action and for personal consumption only. 
+This repo  might have some changes which doesn't work at all. Please use original author repo.
 Welcome to the code repo associated with my book [**Generative AI in Action**](https://www.manning.com/books/generative-ai-in-action), published by Manning.
 
 Note: The book is also available on [Amazon](https://a.co/d/cFDrfcp).
